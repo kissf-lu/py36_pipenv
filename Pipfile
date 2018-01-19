@@ -1,0 +1,20 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+"b6563df" = {path = "D:/pythonEnv/whl/numpy-1.13.1+mkl-cp36-cp36m-win_amd64.whl"}
+"436bc06" = {path = "D:/pythonEnv/whl/scipy-1.0.0-cp36-cp36m-win_amd64.whl"}
+pandas = "*"
+dash = "*"
+simpy = "*"
+tqdm = "*"
+aiohttp = "*"
+
+
+[dev-packages]
+
